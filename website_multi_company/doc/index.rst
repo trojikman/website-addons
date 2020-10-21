@@ -58,7 +58,7 @@ For multi-database instance odoo has to know which database to use when handle n
 session information. There are two ways to do it:
 
 * Let user select database manually (bad user experience)
-* Take database depending on host name (prefered)
+* Take database depending on host name (preferred)
 
 In the latter case ``dbfilter`` is usually used, though it's not flexible enough.
 

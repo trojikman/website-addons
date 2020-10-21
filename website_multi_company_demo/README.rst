@@ -2,7 +2,7 @@
  Website Demo Data
 ===================
 
-If you are looking for *Mult Website* feature use module `Real Multi Website <https://apps.odoo.com/apps/modules/10.0/website_multi_company>`_ instead.
+If you are looking for *Multi Website* feature use module `Real Multi Website <https://apps.odoo.com/apps/modules/10.0/website_multi_company>`_ instead.
 
 Demo-specific updates
 =====================
